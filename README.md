@@ -15,7 +15,7 @@
 
 หมายเหตุ: ไฟล์มีคอลัมน์ `Unnamed: 0` ซึ่งเป็นเลขลำดับ โค้ดจะตัดทิ้งก่อนวิเคราะห์
 
-แหล่งที่มา: _(ใส่ลิงก์ Kaggle ของชุดข้อมูล)_
+แหล่งที่มา: _แหล่งที่มา: (https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset/data?utm_source=chatgpt.com)
 
 ## สิ่งที่วิเคราะห์
 
