@@ -40,9 +40,8 @@
 
 ```
 .
-├── Advertising_analysis.ipynb   # โค้ดวิเคราะห์ทั้งหมด
+├── advertising-analysis.ipynb   # โค้ดวิเคราะห์ทั้งหมด
 ├── Advertising.csv              # ชุดข้อมูล
-├── output/                      # กราฟ (.png) และตารางสรุป (.csv) ที่โค้ดสร้างขึ้น
 └── README.md
 ```
 
@@ -53,7 +52,6 @@
 3. เปิดโฟลเดอร์ใน VS Code แล้วเปิด `Advertising_analysis.ipynb`
 4. เลือก Kernel ของ Python แล้วกด **Run All**
 
-กราฟภาษาไทยใช้ฟอนต์ TH Sarabun New ถ้าเครื่องไม่มีจะใช้ Tahoma แทนอัตโนมัติ
 
 ## เครื่องมือที่ใช้
 
