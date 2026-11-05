@@ -27,8 +27,8 @@
 
 1. ติดตั้งแพ็กเกจ: `pip install -r requirements.txt`
 2. วางไฟล์ข้อมูลดิบไว้ที่ `data/raw/Advertising_2026-10-07.csv` (มีให้แล้ว)
-3. เปิดโฟลเดอร์นี้ใน VS Code แล้วรันตามลำดับ (กด Restart แล้ว Run All ในแต่ละไฟล์):
-   `notebooks/01_get_data.ipynb` → `02_clean.ipynb` → `03_analysis.ipynb`
+3. เปิดโฟลเดอร์นี้ใน VS Code (กด Restart แล้ว Run All ในแต่ละไฟล์):
+   `advertising-analysis.ipynb`
 
 ตัวเลขและกราฟทุกอย่างในเล่มรายงานสร้างจาก `notebooks/03_analysis.ipynb`
 
