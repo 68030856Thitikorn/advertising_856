@@ -7,9 +7,9 @@
 ## ที่มาของข้อมูล
 
 - ชุดข้อมูล: Advertising (200 ตลาด, 4 ตัวแปรหลัก: TV, Radio, Newspaper, Sales)
-- แหล่งที่มา: Kaggle (ใส่ลิงก์หน้าชุดข้อมูล)
+- แหล่งที่มา: (https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset)
 - วันที่ดึงข้อมูล: 7 ตุลาคม 2569
-- เงื่อนไขการใช้ซ้ำ: (ตรวจสอบจากหน้า Kaggle แล้วใส่ที่นี่)
+- เงื่อนไขการใช้ซ้ำ: advertising-analysis
 
 ## คำถามที่ต้องการตอบ
 
